@@ -318,7 +318,7 @@ sections:
     styles:
       self:
         height: auto
-        width: wide
+        width: full
         margin:
           - mt-0
           - mb-0
@@ -484,7 +484,10 @@ sections:
       - type: ItemBlock
         title: How it this different from what we have today?
         text: >
-          At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation
+          At the office, working together is often a distruction, on remote, it
+          could be motivation, At the office, working together is often a
+          distruction, on remote, it could be motivation, At the office, working
+          together is often a distruction, on remote, it could be motivation
         styles:
           title:
             fontWeight: 700
@@ -500,7 +503,10 @@ sections:
       - type: ItemBlock
         title: How it this different from what we have today?
         text: >
-          At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation
+          At the office, working together is often a distruction, on remote, it
+          could be motivation, At the office, working together is often a
+          distruction, on remote, it could be motivation, At the office, working
+          together is often a distruction, on remote, it could be motivation
         styles:
           title:
             fontWeight: 700
@@ -516,7 +522,10 @@ sections:
       - type: ItemBlock
         title: How it this different from what we have today?
         text: >
-          At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation
+          At the office, working together is often a distruction, on remote, it
+          could be motivation, At the office, working together is often a
+          distruction, on remote, it could be motivation, At the office, working
+          together is often a distruction, on remote, it could be motivation
         styles:
           title:
             fontWeight: 700
@@ -532,7 +541,10 @@ sections:
       - type: ItemBlock
         title: How it this different from what we have today?
         text: >
-          At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation, At the office, working together is often a distruction, on remote, it could be motivation
+          At the office, working together is often a distruction, on remote, it
+          could be motivation, At the office, working together is often a
+          distruction, on remote, it could be motivation, At the office, working
+          together is often a distruction, on remote, it could be motivation
         styles:
           title:
             fontWeight: 700
